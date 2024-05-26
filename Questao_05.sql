@@ -1,0 +1,8 @@
+USE Filmes
+
+--QUINTA QUESTÃO--
+
+SELECT 
+	*
+FROM Filmes
+WHERE ANO > 2000

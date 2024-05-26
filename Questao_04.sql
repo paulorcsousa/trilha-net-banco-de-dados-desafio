@@ -1,0 +1,8 @@
+USE Filmes
+
+--QUARTA QUESTÃO--
+
+SELECT 
+	*
+FROM Filmes
+WHERE ANO = 1997

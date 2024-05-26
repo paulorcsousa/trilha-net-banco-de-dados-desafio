@@ -1,0 +1,8 @@
+USE Filmes
+
+--SEGUNDA QUESTÃO--
+
+SELECT 
+	*
+FROM Filmes
+ORDER BY Ano
